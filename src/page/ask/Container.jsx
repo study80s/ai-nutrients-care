@@ -2,6 +2,6 @@ import React from "react";
 
 export default function Container(){
     return(
-        <div>오늘 두번째 프로젝트</div>
+        <div>컨테어너 컴포넌트</div>
     )
 }
